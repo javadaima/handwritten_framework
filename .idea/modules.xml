@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/handwritten_framework.iml" filepath="$PROJECT_DIR$/.idea/handwritten_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handwrtten_spring_ioc/handwrtten_spring_ioc.iml" filepath="$PROJECT_DIR$/handwrtten_spring_ioc/handwrtten_spring_ioc.iml" />
+    </modules>
+  </component>
+</project>
